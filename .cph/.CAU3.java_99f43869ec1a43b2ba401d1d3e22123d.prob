@@ -1,0 +1,1 @@
+{"name":"Local: CAU3","url":"d:\\PROJECT3\\CAU3.java","tests":[{"id":1762220953165,"input":"2\nB19DCCN123\nTran Van An\nD19CQCN01-B\nTim hieu dien toan dam may\n08:45\nB19DCCN987\nHoang Van Binh\nD19CQCN02-B\nXay dung game nhap vai\n07:30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\PROJECT3\\CAU3.java","group":"local","local":true}
